@@ -195,12 +195,12 @@ a:hover {
 
 .d-bloc .panel,
 .l-bloc {
-    color: rgba(0, 0, 0, .5);
+    color: rgb(0 0 0 / 71%);
 }
 
 .d-bloc .panel button:hover,
 .l-bloc button:hover {
-    color: rgba(0, 0, 0, .7);
+    color: rgb(0 0 0 / 71%);
 }
 
 .l-bloc .icon-round,
