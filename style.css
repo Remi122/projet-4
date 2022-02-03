@@ -639,24 +639,17 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-p,
-label,
-.btn,
+h1, h2,h3,h4,h5,h6,p, label
  {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
-a{
+a .btn, {
     font-family: "helvetica";
     font-weight: 400;
     color: #ffffff!important;
+
 }
 .container {
     max-width: 1000px;
@@ -783,12 +776,12 @@ h4 {
 }
 
 .btn-atomic-tangerine {
-    background: ##ff5100;
+    background: #ff5100;
     color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: ##ff5100!important;
+    background: #ff5100!important;
     color: #FFFFFF!important;
 }
 
