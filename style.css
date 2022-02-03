@@ -648,12 +648,16 @@ h6,
 p,
 label,
 .btn,
-a {
+ {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
-
+a{
+    font-family: "helvetica";
+    font-weight: 400;
+    color: #ffffff!important;
+}
 .container {
     max-width: 1000px;
 }
