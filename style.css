@@ -233,7 +233,7 @@ a {
 .l-bloc h5 a,
 .l-bloc h6 a,
 .l-bloc p a {
-    color: rgba(0, 0, 0, .6);
+    color: rgb(0 0 0);
 }
 
 .d-bloc .panel .a-btn:hover,
@@ -645,7 +645,7 @@ h1,h2,h3,h4,h5,h6,p, label.btn, a
  {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757!important;
+    
 }
 
 .container {
@@ -1033,4 +1033,7 @@ h4 {
     .bloc-mob-center-text {
         text-align: center;
     }
+}
+.col-sm-4 {
+    margin-top:30px;
 }
