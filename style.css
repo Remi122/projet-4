@@ -639,18 +639,13 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-h1, h2,h3,h4,h5,h6,p, label
+h1,h2,h3,h4,h5,h6,p, label.btn, a
  {
     font-family: "helvetica";
     font-weight: 400;
     color: #575757!important;
 }
-a .btn, {
-    font-family: "helvetica";
-    font-weight: 400;
-    color: #ffffff!important;
 
-}
 .container {
     max-width: 1000px;
 }
