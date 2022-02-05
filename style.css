@@ -282,7 +282,9 @@ a {
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
-    padding-left: 0;
+    padding-left: 50px;
+    padding: 50p;
+    justify-content: space-between;
 }
 
 #bloc-1-hero h1 {
@@ -694,8 +696,10 @@ p {
 }
 
 .social {
-    max-width: 400px;
+    /* max-width: 400px; */
     margin: auto auto auto auto;
+    text-decoration-color: #ffffff;
+    justify-content: space-between;
 }
 
 h2 {
@@ -1032,4 +1036,8 @@ h4 {
 }
 .col-sm-4 {
     margin-top:30px;
+}
+
+.keywords {
+    text-align: center;
 }
