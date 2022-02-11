@@ -283,7 +283,7 @@ a {
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 50px;
-    padding: 50p;
+    padding: 50px;
     justify-content: space-between;
 }
 
